@@ -1,0 +1,24 @@
+.card-custom {
+    width: 200px;
+}
+.badge-custom{
+    padding: 5px 5px 5px 5px;
+}
+.cardSelected{
+    box-shadow: 0 0 0 1pt #6066e6;
+    background-color: #5f68ff;
+    color: white;
+}
+.date-card{
+    font-size: 12px;
+}
+.card-body-custom{
+    padding-top:5px;
+}
+.card-img-custom{
+    height: 140px;
+}
+.idcard{
+    font-size: 10px;
+    margin-bottom: 7px;
+}
