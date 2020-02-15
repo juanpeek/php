@@ -5,8 +5,8 @@ error_reporting(E_ALL);
 
 function OpenCon(){
     $host = "localhost";
-    $db = "bd";
-    $user = "root";
+    $db = "";
+    $user = "";
     $pass = "";
     $conn = new PDO("mysql:host=$host;dbname=$db", $user, $pass);
     return $conn;
